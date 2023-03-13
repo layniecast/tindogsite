@@ -1,0 +1,19 @@
+{
+  "name": "tindogsite",
+  "version": "1.0.0",
+  "description": "TinDog website created by using Bootstrap 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layniecast/tindogsite.git"
+  },
+  "author": "laynie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/layniecast/tindogsite/issues"
+  },
+  "homepage": "https://github.com/layniecast/tindogsite#readme"
+}
